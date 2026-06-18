@@ -2,13 +2,13 @@
 
 **Eén platform voor modern havenbeheer.**
 
-Navius Software ontwikkelt slimme software voor jachthavens, watersportverenigingen en havenbeheerders die hun processen overzichtelijker willen beheren.
+Navius Software ontwikkelt slimme software voor jachthavens, watersportverenigingen en havenbeheerders die hun administratie en dagelijkse processen overzichtelijker willen beheren.
 
 Ons doel is eenvoudig: minder losse systemen, minder handmatig werk en meer grip op het volledige havenbeheer.
 
 ## Wat wij bouwen
 
-Navius brengt belangrijke onderdelen van havenbeheer samen in één omgeving, waaronder:
+Navius brengt belangrijke onderdelen van havenbeheer samen in één duidelijke omgeving, waaronder:
 
 - ligplaatsbeheer;
 - klant- en relatiebeheer;
@@ -20,13 +20,13 @@ Navius brengt belangrijke onderdelen van havenbeheer samen in één omgeving, wa
 
 ## Waarom Navius?
 
-Veel havens werken nog met losse Excel-bestanden, e-mails, mappen en verschillende systemen naast elkaar. Dat kost tijd, zorgt voor foutgevoeligheid en maakt het lastig om overzicht te houden.
+Veel havens werken nog met losse Excel-bestanden, e-mails, mappen en verschillende systemen naast elkaar. Dat kost tijd, vergroot de kans op fouten en maakt het lastig om overzicht te houden.
 
-Navius brengt deze processen samen in één duidelijk en gebruiksvriendelijk platform.
+Navius brengt deze processen samen in één gebruiksvriendelijk platform. Zo houden havenbeheerders meer tijd over voor hun haven, hun leden en hun gasten.
 
 ## Voor wie?
 
-Navius Software richt zich op jachthavens, watersportverenigingen en havenbeheerders die hun processen willen professionaliseren zonder onnodige complexiteit.
+Navius Software richt zich op jachthavens, watersportverenigingen en havenbeheerders die hun organisatie willen professionaliseren zonder onnodige complexiteit.
 
 ## Contact
 
